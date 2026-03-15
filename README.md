@@ -1,4 +1,5 @@
 **FitCheck — AI-powered job fit analyzer**
+
 Know if a job is worth applying to before you write a single word.
 
 🔗 **Live app:** https://fitcheck-ai-job-fit-b1sz.bolt.host/
